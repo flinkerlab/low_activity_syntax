@@ -7,7 +7,7 @@ The code for this "Low Activity Syntax" project is broken down into several subd
 	- by regions of interest ("ROI wilcox tests and squiggle plots/");
  - "RSA": scripts for all analyses involving RSIs.
 
-A brief glossary, translating from manuscript terminology to variable names in the code:
+Some important translations from manuscript terminology to variable names in the code:
  - "RSI" (manuscript) = "zs.adjusted" (code)
  - "Syntax" (i.e., RSI type) = "diff.voice"
  - "Semantics" (i.e., RSI type) = "diff.event.semantics"
