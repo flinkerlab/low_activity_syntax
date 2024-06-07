@@ -1,4 +1,4 @@
-The code for this "Low Activity Syntax" project is broken down into several subdirectories: 
+The code for this "Low Activity Syntax" project is broken down into the following subdirectories: 
  - "functions": some custom functions used throughout the scripts;
  - "preprocessing": scripts for a preprocessing a sample subject (these were largely the same across subjects, except for hard-coded trial and electrode exclusions);
  - "temporal warping": script for warping trials to median RT per task;
